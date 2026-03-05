@@ -1,5 +1,5 @@
 - 🔭 currently working on **Itera(packet manager wrapper, currently closed source)**  
-- 🐧 ima arch linux user btw. current setup:
+- 🐧 ima arch linux user(120wpm btw). current setup:
 	- **WM:** niri
 	- **Shell:** nu 
 	- **Terminal:** alacritty
