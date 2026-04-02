@@ -1,10 +1,10 @@
-- 🔭 currently working on **Itera(packet manager wrapper, currently closed source)**  
-- 🐧 ima arch linux user(120wpm btw). current setup:
+- 🔭 currently working on **Amarch - arch linux based os**  
+- 🐧 im artix linux user. current setup:
 	- **WM:** niri
 	- **Shell:** nu 
 	- **Terminal:** alacritty
 	- **Editor:** nvim 
-	- **Kernel:** zen + lts 
+	- **Kernel:** zen + lts
 	- **Boot:** systemd-boot
 - 🌱 currently learning **rust, CS**  
 - 🙃 please notice that my tech stack below is not what im SENIOR at, but staff i used in my projects
