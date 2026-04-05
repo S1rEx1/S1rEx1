@@ -1,5 +1,5 @@
-- 🔭 currently working on **VindexOS - arch linux based os**  
-- 🐧 im artix linux user. current setup:
+- 🔭 currently working on **VindexOS - arch linux based os(prolly soon it will be artix-based)**  
+- 🐧 im arch linux user. current setup:
 	- **WM:** niri
 	- **Shell:** nu 
 	- **Terminal:** alacritty
