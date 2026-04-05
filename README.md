@@ -1,4 +1,4 @@
-- 🔭 currently working on **Amarch - arch linux based os**  
+- 🔭 currently working on **VindexOS - arch linux based os**  
 - 🐧 im artix linux user. current setup:
 	- **WM:** niri
 	- **Shell:** nu 
