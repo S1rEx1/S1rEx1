@@ -1,11 +1,10 @@
-- 🔭 currently working on **VindexOS - arch linux based os(prolly soon it will be artix-based)**  
-- 🐧 im arch linux user. current setup:
-	- **WM:** niri
+- 🔭 currently working on **procrastination**  
+- 🐧 current setup:
+	- **WM:** oxwm
 	- **Shell:** nu 
 	- **Terminal:** alacritty
 	- **Editor:** nvim 
-	- **Kernel:** zen + lts
-	- **Boot:** systemd-boot
+	- **Kernel:** zen
 - 🌱 currently learning **rust, CS**  
 - 🙃 please notice that my tech stack below is not what im SENIOR at, but staff i used in my projects
 <h3 align="left">Languages and Tools:</h3>  
