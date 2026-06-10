@@ -1,7 +1,7 @@
-- 🔭 currently working on **procrastination**  
+- 🔭 currently working on **tbrhx**  
 - 🐧 current setup:
 	- **WM:** oxwm
-	- **Shell:** nu / zsh
+	- **Shell:** zsh
 	- **Terminal:** st
 	- **Editor:** nvim 
 	- **Kernel:** zen
